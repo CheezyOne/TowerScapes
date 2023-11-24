@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a5f10debbf1ae6d478e083fe8346beb5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GreyMaterialForShop: {fileID: 2100000, guid: b192add102b86cd4d92f4585fac5f504, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
